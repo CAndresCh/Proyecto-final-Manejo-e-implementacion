@@ -1,0 +1,219 @@
+[
+    {
+        "id": "10001",
+        "nombre": "Contacto Simulado 1",
+        "telefono": "555-0001",
+        "correo": "contacto1@empresa.com",
+        "ciudad": "Bogota"
+    },
+    {
+        "id": "10002",
+        "nombre": "Contacto Simulado 2",
+        "telefono": "555-0002",
+        "correo": "contacto2@empresa.com",
+        "ciudad": "Lima"
+    },
+    {
+        "id": "10003",
+        "nombre": "Contacto Simulado 3",
+        "telefono": "555-0003",
+        "correo": "contacto3@empresa.com",
+        "ciudad": "Mexico"
+    },
+    {
+        "id": "10004",
+        "nombre": "Contacto Simulado 4",
+        "telefono": "555-0004",
+        "correo": "contacto4@empresa.com",
+        "ciudad": "Guatemala"
+    },
+    {
+        "id": "10005",
+        "nombre": "Contacto Simulado 5",
+        "telefono": "555-0005",
+        "correo": "contacto5@empresa.com",
+        "ciudad": "Madrid"
+    },
+    {
+        "id": "10006",
+        "nombre": "Contacto Simulado 6",
+        "telefono": "555-0006",
+        "correo": "contacto6@empresa.com",
+        "ciudad": "Bogota"
+    },
+    {
+        "id": "10007",
+        "nombre": "Contacto Simulado 7",
+        "telefono": "555-0007",
+        "correo": "contacto7@empresa.com",
+        "ciudad": "Lima"
+    },
+    {
+        "id": "10008",
+        "nombre": "Contacto Simulado 8",
+        "telefono": "555-0008",
+        "correo": "contacto8@empresa.com",
+        "ciudad": "Mexico"
+    },
+    {
+        "id": "10009",
+        "nombre": "Contacto Simulado 9",
+        "telefono": "555-0009",
+        "correo": "contacto9@empresa.com",
+        "ciudad": "Guatemala"
+    },
+    {
+        "id": "10010",
+        "nombre": "Contacto Simulado 10",
+        "telefono": "555-0010",
+        "correo": "contacto10@empresa.com",
+        "ciudad": "Madrid"
+    },
+    {
+        "id": "10011",
+        "nombre": "Contacto Simulado 11",
+        "telefono": "555-0011",
+        "correo": "contacto11@empresa.com",
+        "ciudad": "Bogota"
+    },
+    {
+        "id": "10012",
+        "nombre": "Contacto Simulado 12",
+        "telefono": "555-0012",
+        "correo": "contacto12@empresa.com",
+        "ciudad": "Lima"
+    },
+    {
+        "id": "10013",
+        "nombre": "Contacto Simulado 13",
+        "telefono": "555-0013",
+        "correo": "contacto13@empresa.com",
+        "ciudad": "Mexico"
+    },
+    {
+        "id": "10014",
+        "nombre": "Contacto Simulado 14",
+        "telefono": "555-0014",
+        "correo": "contacto14@empresa.com",
+        "ciudad": "Guatemala"
+    },
+    {
+        "id": "10015",
+        "nombre": "Contacto Simulado 15",
+        "telefono": "555-0015",
+        "correo": "contacto15@empresa.com",
+        "ciudad": "Madrid"
+    },
+    {
+        "id": "10016",
+        "nombre": "Contacto Simulado 16",
+        "telefono": "555-0016",
+        "correo": "contacto16@empresa.com",
+        "ciudad": "Bogota"
+    },
+    {
+        "id": "10017",
+        "nombre": "Contacto Simulado 17",
+        "telefono": "555-0017",
+        "correo": "contacto17@empresa.com",
+        "ciudad": "Lima"
+    },
+    {
+        "id": "10018",
+        "nombre": "Contacto Simulado 18",
+        "telefono": "555-0018",
+        "correo": "contacto18@empresa.com",
+        "ciudad": "Mexico"
+    },
+    {
+        "id": "10019",
+        "nombre": "Contacto Simulado 19",
+        "telefono": "555-0019",
+        "correo": "contacto19@empresa.com",
+        "ciudad": "Guatemala"
+    },
+    {
+        "id": "10020",
+        "nombre": "Contacto Simulado 20",
+        "telefono": "555-0020",
+        "correo": "contacto20@empresa.com",
+        "ciudad": "Madrid"
+    },
+    {
+        "id": "10021",
+        "nombre": "Contacto Simulado 21",
+        "telefono": "555-0021",
+        "correo": "contacto21@empresa.com",
+        "ciudad": "Bogota"
+    },
+    {
+        "id": "10022",
+        "nombre": "Contacto Simulado 22",
+        "telefono": "555-0022",
+        "correo": "contacto22@empresa.com",
+        "ciudad": "Lima"
+    },
+    {
+        "id": "10023",
+        "nombre": "Contacto Simulado 23",
+        "telefono": "555-0023",
+        "correo": "contacto23@empresa.com",
+        "ciudad": "Mexico"
+    },
+    {
+        "id": "10024",
+        "nombre": "Contacto Simulado 24",
+        "telefono": "555-0024",
+        "correo": "contacto24@empresa.com",
+        "ciudad": "Guatemala"
+    },
+    {
+        "id": "10025",
+        "nombre": "Contacto Simulado 25",
+        "telefono": "555-0025",
+        "correo": "contacto25@empresa.com",
+        "ciudad": "Madrid"
+    },
+    {
+        "id": "10026",
+        "nombre": "Contacto Simulado 26",
+        "telefono": "555-0026",
+        "correo": "contacto26@empresa.com",
+        "ciudad": "Bogota"
+    },
+    {
+        "id": "10027",
+        "nombre": "Contacto Simulado 27",
+        "telefono": "555-0027",
+        "correo": "contacto27@empresa.com",
+        "ciudad": "Lima"
+    },
+    {
+        "id": "10028",
+        "nombre": "Contacto Simulado 28",
+        "telefono": "555-0028",
+        "correo": "contacto28@empresa.com",
+        "ciudad": "Mexico"
+    },
+    {
+        "id": "10029",
+        "nombre": "Contacto Simulado 29",
+        "telefono": "555-0029",
+        "correo": "contacto29@empresa.com",
+        "ciudad": "Guatemala"
+    },
+    {
+        "id": "10030",
+        "nombre": "Contacto Simulado 30",
+        "telefono": "555-0030",
+        "correo": "contacto30@empresa.com",
+        "ciudad": "Madrid"
+    },
+    {
+        "id": "6767",
+        "nombre": "Carlos",
+        "telefono": "47270764",
+        "correo": "34carlos@gmail.com",
+        "ciudad": "guatemala"
+    }
+]
